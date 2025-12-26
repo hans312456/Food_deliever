@@ -150,88 +150,10 @@ See the [contribution docs](https://docs.bracketapp.nl/docs/community/contributi
 <table>
 <tr>
     <td align="center">
-        <a href="https://github.com/evroon">
-            <img src="https://avatars.githubusercontent.com/u/11857441?v=4" width="100;" alt="evroon"/>
+        <a href="https://github.com/hans312456">
+            <img src="https://avatars.githubusercontent.com/u/249493046?v=4" width="100;" alt="hans312456"/>
             <br />
-            <sub><b>Erik Vroon</b></sub>
-        </a>
-    </td>
-    <td align="center">
-        <a href="https://github.com/robigan">
-            <img src="https://avatars.githubusercontent.com/u/35210888?v=4" width="100;" alt="robigan"/>
-            <br />
-            <sub><b>Null</b></sub>
-        </a>
-    </td>
-    <td align="center">
-        <a href="https://github.com/BachErik">
-            <img src="https://avatars.githubusercontent.com/u/75324423?v=4" width="100;" alt="BachErik"/>
-            <br />
-            <sub><b>BachErik</b></sub>
-        </a>
-    </td>
-    <td align="center">
-        <a href="https://github.com/djpiper28">
-            <img src="https://avatars.githubusercontent.com/u/13609136?v=4" width="100;" alt="djpiper28"/>
-            <br />
-            <sub><b>Danny Piper</b></sub>
-        </a>
-    </td>
-    <td align="center">
-        <a href="https://github.com/MaxRickettsUy">
-            <img src="https://avatars.githubusercontent.com/u/22103252?v=4" width="100;" alt="MaxRickettsUy"/>
-            <br />
-            <sub><b>Max Ricketts-Uy</b></sub>
-        </a>
-    </td>
-    <td align="center">
-        <a href="https://github.com/sevi418">
-            <img src="https://avatars.githubusercontent.com/u/91365763?v=4" width="100;" alt="sevi418"/>
-            <br />
-            <sub><b>Sevi C</b></sub>
-        </a>
-    </td></tr>
-<tr>
-    <td align="center">
-        <a href="https://github.com/nvanheuverzwijn">
-            <img src="https://avatars.githubusercontent.com/u/943226?v=4" width="100;" alt="nvanheuverzwijn"/>
-            <br />
-            <sub><b>Nicolas Vanheuverzwijn</b></sub>
-        </a>
-    </td>
-    <td align="center">
-        <a href="https://github.com/FelipeGdM">
-            <img src="https://avatars.githubusercontent.com/u/1054087?v=4" width="100;" alt="FelipeGdM"/>
-            <br />
-            <sub><b>Felipe Gomes De Melo</b></sub>
-        </a>
-    </td>
-    <td align="center">
-        <a href="https://github.com/IzStriker">
-            <img src="https://avatars.githubusercontent.com/u/44909896?v=4" width="100;" alt="IzStriker"/>
-            <br />
-            <sub><b>IzStriker</b></sub>
-        </a>
-    </td>
-    <td align="center">
-        <a href="https://github.com/jmillxyz">
-            <img src="https://avatars.githubusercontent.com/u/531476?v=4" width="100;" alt="jmillxyz"/>
-            <br />
-            <sub><b>Jon Miller</b></sub>
-        </a>
-    </td>
-    <td align="center">
-        <a href="https://github.com/oscartobar">
-            <img src="https://avatars.githubusercontent.com/u/10423124?v=4" width="100;" alt="oscartobar"/>
-            <br />
-            <sub><b>Oscar Tobar Rios</b></sub>
-        </a>
-    </td>
-    <td align="center">
-        <a href="https://github.com/babeuh">
-            <img src="https://avatars.githubusercontent.com/u/60193302?v=4" width="100;" alt="babeuh"/>
-            <br />
-            <sub><b>Raphael Le Goaller</b></sub>
+            <sub><b>Hans Geroge</b></sub>
         </a>
     </td></tr>
 </table>
