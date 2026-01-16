@@ -150,10 +150,10 @@ See the [contribution docs](https://docs.bracketapp.nl/docs/community/contributi
 <table>
 <tr>
     <td align="center">
-        <a href="https://github.com/hans312456">
-            <img src="https://avatars.githubusercontent.com/u/249493046?v=4" width="100;" alt="hans312456"/>
+        <a href="https://github.com/LoM129">
+            <img src="https://avatars.githubusercontent.com/u/249493046?v=4" width="100;" alt="LoM129"/>
             <br />
-            <sub><b>Hans Geroge</b></sub>
+            <sub><b>@L.M@</b></sub>
         </a>
     </td></tr>
 </table>
