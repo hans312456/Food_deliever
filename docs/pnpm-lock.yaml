@@ -103,8 +103,8 @@ importers:
         specifier: ^0.14.0
         version: 0.14.0
       markdownlint-rule-relative-links:
-        specifier: ^4.0.1
-        version: 4.2.0
+        specifier: ^5.0.2
+        version: 5.0.2
       postcss:
         specifier: ^8.5.3
         version: 8.5.6
@@ -2930,6 +2930,10 @@ packages:
     resolution: {integrity: sha512-a54IwgWPaeBCAAsv13YgmALOF1elABB08FxO9i+r4VFk5Vl4pKokRPeX8u5TCgSsPi6ec1otfLjdOpVcgbpshg==}
     hasBin: true
 
+  markdown-it@14.1.1:
+    resolution: {integrity: sha512-BuU2qnTti9YKgK5N+IeMubp14ZUKUUw7yeJbkjtosvHiP0AZ5c8IAgEMk79D0eC8F23r4Ac/q8cAIFdm2FtyoA==}
+    hasBin: true
+
   markdown-table@3.0.4:
     resolution: {integrity: sha512-wiYz4+JrLyb/DqW2hkFJxP7Vd7JuTDm77fvbM8VfEQdmSMqcImWeeRbHwZjBjIFki/VaMK2BhFi7oUUZeM5bqw==}
 
@@ -2947,8 +2951,8 @@ packages:
     resolution: {integrity: sha512-no5ZfdqAdWGxftCLlySHSgddEjyW4kui4z7amQcGsSKfYC5v/ou+8mIQVyg9KQMeEZLNtz9OPDTj7nnTnoR4FQ==}
     engines: {node: '>=18'}
 
-  markdownlint-rule-relative-links@4.2.0:
-    resolution: {integrity: sha512-A81Bgl+ZeN9kBcWs79PQlE33ziqtA20rFGwfCgI8BDr03aJI4E2WOxp36hdvVwKC/owTVqj2O4ILpZVhdxwJ/g==}
+  markdownlint-rule-relative-links@5.0.2:
+    resolution: {integrity: sha512-vxjFlSBNv7hRIguZngq4N34rG/qvZEXfzvZpFZniwRt1QgDb9avchR1e99r4xYoA0UfaW4TTvtcEFJ8iKTj6cQ==}
     engines: {node: '>=22.0.0'}
 
   markdownlint@0.35.0:
@@ -3152,6 +3156,11 @@ packages:
   micromatch@4.0.8:
     resolution: {integrity: sha512-PXwfBhYu0hBCPw8Dn0E+WDYb7af3dSLVWKi3HGv84IdF4TyFoC0ysxFd0Goxw7nSv4T/PzEJQxsYsEiFCKo2BA==}
     engines: {node: '>=8.6'}
+
+  mime@4.1.0:
+    resolution: {integrity: sha512-X5ju04+cAzsojXKes0B/S4tcYtFAJ6tTMuSPBEn9CPGlrWr8Fiw7qYeLT0XyH80HSoAoqWCaz+MWKh22P7G1cw==}
+    engines: {node: '>=16'}
+    hasBin: true
 
   mimic-fn@4.0.0:
     resolution: {integrity: sha512-vqiC06CuhBTUdZH+RYl8sFrL096vA45Ok5ISO6sE/Mr1jRbGH4Csnhi8f3wKVl7x8mO4Au7Ir9D3Oyv1VYMFJw==}
@@ -7193,6 +7202,15 @@ snapshots:
       punycode.js: 2.3.1
       uc.micro: 2.1.0
 
+  markdown-it@14.1.1:
+    dependencies:
+      argparse: 2.0.1
+      entities: 4.5.0
+      linkify-it: 5.0.0
+      mdurl: 2.0.0
+      punycode.js: 2.3.1
+      uc.micro: 2.1.0
+
   markdown-table@3.0.4: {}
 
   markdownlint-cli2-formatter-default@0.0.5(markdownlint-cli2@0.14.0):
@@ -7210,9 +7228,10 @@ snapshots:
 
   markdownlint-micromark@0.1.10: {}
 
-  markdownlint-rule-relative-links@4.2.0:
+  markdownlint-rule-relative-links@5.0.2:
     dependencies:
-      markdown-it: 14.1.0
+      markdown-it: 14.1.1
+      mime: 4.1.0
 
   markdownlint@0.35.0:
     dependencies:
@@ -7734,6 +7753,8 @@ snapshots:
     dependencies:
       braces: 3.0.3
       picomatch: 2.3.1
+
+  mime@4.1.0: {}
 
   mimic-fn@4.0.0: {}
 
