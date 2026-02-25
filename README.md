@@ -40,8 +40,8 @@
   ·
   <a href="https://docs.bracketapp.nl/docs/running-bracket/quickstart">Quickstart</a>
   ·
-  <a href="https://github.com/evroon/bracket">GitHub</a>
-  ·
+ <!-- <a href="https://github.com/evroon/bracket">GitHub</a> 
+  ·-->
   <a href="https://github.com/evroon/bracket/releases">Releases</a>
 </p>
 <p align="center">
