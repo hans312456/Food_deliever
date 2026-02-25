@@ -7,7 +7,7 @@ export const GitHub = () => {
     <section className="container place-items-center py-20">
       <section className="md:w-2/3">
         <Link
-          href="https://github.com/evroon/bracket"
+          href="https://github.com/LoM129/Tournament_Pro"
           className={`w-full h-15 md:text-2xl border-2 ${buttonVariants({
             variant: "outline",
           })}`}
