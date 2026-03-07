@@ -7,6 +7,8 @@ coverage:
       default:
         informational: true
 
+
+
 ignore:
   - "backend/alembic"
   - "backend/tests/integration_tests/conftest.py"
